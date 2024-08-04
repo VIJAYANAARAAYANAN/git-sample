@@ -14,6 +14,7 @@ def main():
         result = factorial(num)
         print(f"The factorial of {num} is {result}")
         print("HEllo")
+        print("hi new")
 if __name__ == '__main__':
     main()
 
